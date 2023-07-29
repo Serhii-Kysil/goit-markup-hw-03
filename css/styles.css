@@ -137,6 +137,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--text-color);
+  margin-bottom: 72px;
 }
 .four-section {
   background-color: #f4f4fd;
@@ -234,4 +235,14 @@ img {
 }
 .second-section-list-item {
   width: calc((100% - 72px) / 4);
+}
+.third-section {
+  padding-bottom: 120px;
+}
+.team-list {
+  display: flex;
+  gap: 24px;
+}
+.team-list-item {
+  width: calc((100% - 48px) / 3);
 }
