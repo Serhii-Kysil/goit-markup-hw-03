@@ -165,3 +165,26 @@ body {
   letter-spacing: 0.02em;
   color: var(--text-color);
 }
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.nav-block {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+img {
+  display: block;
+}
+.head {
+  border-bottom: 1px solid #e7e9fc;
+}
+.top-block {
+  display: flex;
+}
+.navigation {
+  display: flex;
+  align-items: center;
+}
