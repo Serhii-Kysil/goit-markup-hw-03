@@ -185,9 +185,6 @@ body {
   letter-spacing: 0.02em;
   color: var(--text-color);
 }
-.section {
-  padding: 120px 0;
-}
 .container {
   width: 1158px;
   margin: 0 auto;
@@ -217,7 +214,9 @@ img {
   display: flex;
   gap: 40px;
 }
-
+.second-section {
+  padding: 120px 0;
+}
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -237,7 +236,9 @@ img {
 .second-section-list-item {
   width: calc((100% - 72px) / 4);
 }
-
+.third-section {
+  padding-bottom: 120px;
+}
 .tips-list {
   display: flex;
   gap: 24px;
