@@ -298,7 +298,7 @@ img {
   padding: 0;
 }
 .port-item {
-  width: calc((100%-2 * 24) / 3);
+  width: calc((100% - 48px) / 3);
 }
 .port-desc {
   padding: 32px 16px;
