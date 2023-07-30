@@ -249,7 +249,7 @@ img {
   gap: 24px;
 }
 .second-section-list-item {
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 .third-section {
   padding-bottom: 120px;
@@ -289,12 +289,6 @@ img {
   row-gap: 48px;
 }
 .port-item {
-  display: flex;
-  flex-wrap: wrap;
-  column-gap: 24px;
-  row-gap: 48px;
-  margin-top: 0;
-  padding-left: 0;
   width: calc((100%-2 * 24px) / 3);
 }
 .port-desc {
