@@ -253,6 +253,7 @@ img {
   overflow: hidden;
 }
 .second-section-list {
+  padding: 0;
   display: flex;
   gap: 24px;
 }
